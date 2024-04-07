@@ -1,3 +1,8 @@
+# my ignore
+# ssocar.csv
+# ssocar.*
+# *.csv
+lion/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
